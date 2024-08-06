@@ -1,0 +1,29 @@
+#dataInterpreter
+Please interpret the data and descriptions given above.
+
+#questionRaiser
+Please raise some scientific questions based on the provided content.
+
+#variableGetter	
+Please find the corresponding variable for the "Question" based on the above information.
+
+#taskPlanner	
+Please provide the steps to solve the "Question" based on the above information.
+
+#dataCleaner	
+Please provide a data cleaning plan based on the above information.
+
+#codeMaker	
+Please provide corresponding code for the "Question" based on all the information above.
+Ensure that all the content you output matches the file format.
+
+#dockerMaker	
+Provide only code as output without any description.In ubuntu system, provide one or several lines of command to install {software_language} tool or package: {software_name}.
+Do not use sudo.
+
+#resultJudger	
+Please judge whether this question has been answered based on the information above.
+
+#codeDebugger	
+You need to modify the code provided above based on the corresponding error content "Error:"
+Ensure that all the content you output matches the file format.
