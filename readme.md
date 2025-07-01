@@ -15,7 +15,7 @@ DREAM is the first **D**ata-d**R**iven self-**E**volving **A**utonomous  researc
 
 ## :computer: Architecture
 
-<img src="./fig/architecture.svg" style="zoom:30%;" />
+<img src="./fig/architecture.jpg" style="zoom:100%;" />
 
 
 
